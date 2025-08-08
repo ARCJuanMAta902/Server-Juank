@@ -710,3 +710,90 @@ java.io.IOException: Maximum number of bytes read: 8192
 [08Aug2025 03:28:33.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game
 [08Aug2025 03:30:04.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 03:30:04.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:34:28.027] [Worker-Main-2/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/block/entity/trialspawner/TrialSpawner
+[08Aug2025 03:34:28.062] [Worker-Main-2/DEBUG] [net.minecraftforge.coremod.CoreMod.forge/COREMODLOG]: Redirecting method call finalizeSpawn(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/EntitySpawnReason;Lnet/minecraft/world/entity/SpawnGroupData;)Lnet/minecraft/world/entity/SpawnGroupData; to onFinalizeSpawn(Lnet/minecraft/world/entity/Mob;Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/EntitySpawnReason;Lnet/minecraft/world/entity/SpawnGroupData;)Lnet/minecraft/world/entity/SpawnGroupData; inside of net/minecraft/world/level/block/entity/trialspawner/TrialSpawner.spawnMob
+[08Aug2025 03:34:43.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotAether moved too quickly! 4.402090532713494,-1.0013359791121417,9.293439172070407
+[08Aug2025 03:34:43.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
+[08Aug2025 03:35:09.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:35:09.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:38:13.560] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 03:38:13.561] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 03:38:13.561] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 03:38:13.561] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[08Aug2025 03:38:13.561] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@778f9453 into net.minecraft.network.Connection@5f5e6eff
+[08Aug2025 03:38:14.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: john_sex[/172.27.110.222:56709] logged in with entity id 5135 at (33.5, 76.0, -161.5)
+[08Aug2025 03:38:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex joined the game
+[08Aug2025 03:38:41.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodSans2 lost connection: Disconnected
+[08Aug2025 03:38:41.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 left the game
+[08Aug2025 03:39:38.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.25762405464536187
+[08Aug2025 03:39:39.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.7323586204733488
+[08Aug2025 03:39:39.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.2654188778371207
+[08Aug2025 03:39:39.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.2713680607727582
+[08Aug2025 03:39:39.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.2746420828244567
+[08Aug2025 03:39:53.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.3308547788833138
+[08Aug2025 03:39:54.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.5990102676824236
+[08Aug2025 03:40:09.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:40:09.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:40:17.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.3500852603328184
+[08Aug2025 03:40:17.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 1.055125728241606
+[08Aug2025 03:40:17.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 1.0423286404335812
+[08Aug2025 03:40:17.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.5440505373185189
+[08Aug2025 03:40:28.855] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft]
+[08Aug2025 03:40:28.932] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login]
+[08Aug2025 03:40:28.932] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Aug2025 03:40:28.932] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Aug2025 03:40:28.933] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Aug2025 03:40:28.933] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Aug2025 03:40:29.014] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[08Aug2025 03:40:29.087] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[08Aug2025 03:40:29.162] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[08Aug2025 03:40:29.242] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[08Aug2025 03:40:29.316] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[08Aug2025 03:40:29.388] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[08Aug2025 03:40:29.470] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[08Aug2025 03:40:29.549] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[08Aug2025 03:40:29.631] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[08Aug2025 03:40:29.712] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[08Aug2025 03:40:29.786] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[08Aug2025 03:40:29.861] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[08Aug2025 03:40:29.938] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[08Aug2025 03:40:30.015] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[08Aug2025 03:40:30.088] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[08Aug2025 03:40:30.160] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[08Aug2025 03:40:30.232] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[08Aug2025 03:40:30.305] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[08Aug2025 03:40:30.377] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[08Aug2025 03:40:30.763] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[08Aug2025 03:40:31.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GodSans2[/172.27.149.71:63740] logged in with entity id 5954 at (76.96833294122648, 72.0, -157.3898604150953)
+[08Aug2025 03:40:31.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 joined the game
+[08Aug2025 03:40:37.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.39714934191962925
+[08Aug2025 03:40:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 was slain by Zombie
+[08Aug2025 03:41:00.932] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 03:41:00.932] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 03:41:00.932] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 03:41:00.932] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[08Aug2025 03:41:00.932] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@15b031f into net.minecraft.network.Connection@55c81cf6
+[08Aug2025 03:41:03.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Geo06[/172.27.51.11:53809] logged in with entity id 6152 at (37.5, 77.0, -167.5)
+[08Aug2025 03:41:03.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 joined the game
+[08Aug2025 03:42:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Monster Hunter]
+[08Aug2025 03:42:38.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 1.2472525868003856
+[08Aug2025 03:43:33.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of john_sex) moved wrongly! 0.25345932351251577
+[08Aug2025 03:44:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Monster Hunter]
+[08Aug2025 03:45:09.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:45:09.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:47:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether was slain by john_sex
+[08Aug2025 03:48:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 was slain by john_sex
+[08Aug2025 03:48:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex was slain by ImNotAether
+[08Aug2025 03:49:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Stone Age]
+[08Aug2025 03:49:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 was slain by ImNotAether
+[08Aug2025 03:49:34.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Stone Age]
+[08Aug2025 03:50:03.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Getting an Upgrade]
+[08Aug2025 03:50:09.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 03:50:09.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 03:52:04.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Stone Age]
+[08Aug2025 03:52:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Stone Age]
+[08Aug2025 03:53:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Monster Hunter]
+[08Aug2025 03:53:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Getting an Upgrade]
+[08Aug2025 03:53:18.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Getting an Upgrade]
+[08Aug2025 03:53:44.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Getting an Upgrade]
+[08Aug2025 03:54:16.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Monster Hunter]
