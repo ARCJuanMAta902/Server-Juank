@@ -913,3 +913,63 @@ java.io.IOException: Maximum number of bytes read: 8192
 [08Aug2025 04:45:11.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 04:45:11.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Aug2025 04:45:14.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to ImNotAether
+[08Aug2025 04:46:10.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
+[08Aug2025 04:46:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik was doomed to fall by GodSans2
+[08Aug2025 04:46:26.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
+[08Aug2025 04:48:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[08Aug2025 04:48:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... john_sex  GodSans2<--[HERE]
+[08Aug2025 04:48:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to GodSans2
+[08Aug2025 04:49:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported GodSans2 to ImNotAether
+[08Aug2025 04:49:52.503] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/entity/raid/Raid
+[08Aug2025 04:49:52.518] [Server thread/DEBUG] [net.minecraftforge.coremod.CoreMod.forge/COREMODLOG]: Redirecting method call finalizeSpawn(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/EntitySpawnReason;Lnet/minecraft/world/entity/SpawnGroupData;)Lnet/minecraft/world/entity/SpawnGroupData; to onFinalizeSpawn(Lnet/minecraft/world/entity/Mob;Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/EntitySpawnReason;Lnet/minecraft/world/entity/SpawnGroupData;)Lnet/minecraft/world/entity/SpawnGroupData; inside of net/minecraft/world/entity/raid/Raid.joinRaid
+[08Aug2025 04:50:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> hola
+[08Aug2025 04:50:11.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:50:11.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:50:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked MrVerzik: Kicked by an operator
+[08Aug2025 04:50:27.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik lost connection: Kicked by an operator
+[08Aug2025 04:50:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik left the game
+[08Aug2025 04:51:12.902] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [commonnetworking, forge, journeymap, journeymap_api, minecraft, tlskincape]
+[08Aug2025 04:51:12.971] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login, journeymap:admin_req, journeymap:admin_save, journeymap:chunk_overlay, journeymap:common, journeymap:mp_options_req, journeymap:perm_req, journeymap:player_loc, journeymap:remove_player, journeymap:teleport_req, journeymap:version, journeymap:waypoint, worldinfo:world_id]
+[08Aug2025 04:51:12.972] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Aug2025 04:51:12.972] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Aug2025 04:51:12.972] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[08Aug2025 04:51:12.972] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Aug2025 04:51:13.043] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[08Aug2025 04:51:13.114] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[08Aug2025 04:51:13.183] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[08Aug2025 04:51:13.262] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[08Aug2025 04:51:13.334] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[08Aug2025 04:51:13.404] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[08Aug2025 04:51:13.487] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[08Aug2025 04:51:13.555] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[08Aug2025 04:51:13.630] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[08Aug2025 04:51:13.699] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[08Aug2025 04:51:13.767] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[08Aug2025 04:51:13.837] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[08Aug2025 04:51:13.909] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[08Aug2025 04:51:13.979] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[08Aug2025 04:51:14.047] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[08Aug2025 04:51:14.115] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[08Aug2025 04:51:14.183] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[08Aug2025 04:51:14.253] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[08Aug2025 04:51:14.323] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[08Aug2025 04:51:14.871] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[08Aug2025 04:51:15.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrVerzik[/172.27.101.118:65053] logged in with entity id 35359 at (-1531.763042301626, 87.0, -473.78980841778775)
+[08Aug2025 04:51:15.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik joined the game
+[08Aug2025 04:51:18.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to GodSans2
+[08Aug2025 04:53:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Monster Hunter]
+[08Aug2025 04:54:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Acquire Hardware]
+[08Aug2025 04:55:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
+[08Aug2025 04:55:11.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 04:55:11.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 04:55:57.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Isn't It Iron Pick]
+[08Aug2025 04:56:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Suit Up]
+[08Aug2025 04:58:11.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32621, l='ServerLevel[world]', x=-1474.93, y=64.00, z=-965.84] died, message: 'Villager was slain by Zombie'
+[08Aug2025 05:00:11.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 05:00:11.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 05:01:26.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Take Aim]
+[08Aug2025 05:01:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Take Aim]
+[08Aug2025 05:02:28.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: john_sex moved too quickly! -4.062357707946603,0.017359307792929712,9.375140728825613
+[08Aug2025 05:02:28.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik moved too quickly! -2.7703165587336116,-0.619976325604469,-9.76408637737768
+[08Aug2025 05:05:11.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 05:05:11.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -167,3 +167,27 @@
 [08Aug2025 04:42:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Getting an Upgrade]
 [08Aug2025 04:44:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex was slain by ImNotAether
 [08Aug2025 04:45:14.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to ImNotAether
+[08Aug2025 04:46:10.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
+[08Aug2025 04:46:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik was doomed to fall by GodSans2
+[08Aug2025 04:46:26.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
+[08Aug2025 04:48:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[08Aug2025 04:48:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... john_sex  GodSans2<--[HERE]
+[08Aug2025 04:48:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to GodSans2
+[08Aug2025 04:49:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported GodSans2 to ImNotAether
+[08Aug2025 04:50:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> hola
+[08Aug2025 04:50:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked MrVerzik: Kicked by an operator
+[08Aug2025 04:50:27.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik lost connection: Kicked by an operator
+[08Aug2025 04:50:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik left the game
+[08Aug2025 04:51:15.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrVerzik[/172.27.101.118:65053] logged in with entity id 35359 at (-1531.763042301626, 87.0, -473.78980841778775)
+[08Aug2025 04:51:15.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik joined the game
+[08Aug2025 04:51:18.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to GodSans2
+[08Aug2025 04:53:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Monster Hunter]
+[08Aug2025 04:54:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Acquire Hardware]
+[08Aug2025 04:55:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
+[08Aug2025 04:55:57.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Isn't It Iron Pick]
+[08Aug2025 04:56:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Suit Up]
+[08Aug2025 04:58:11.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32621, l='ServerLevel[world]', x=-1474.93, y=64.00, z=-965.84] died, message: 'Villager was slain by Zombie'
+[08Aug2025 05:01:26.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Take Aim]
+[08Aug2025 05:01:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Take Aim]
+[08Aug2025 05:02:28.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: john_sex moved too quickly! -4.062357707946603,0.017359307792929712,9.375140728825613
+[08Aug2025 05:02:28.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik moved too quickly! -2.7703165587336116,-0.619976325604469,-9.76408637737768

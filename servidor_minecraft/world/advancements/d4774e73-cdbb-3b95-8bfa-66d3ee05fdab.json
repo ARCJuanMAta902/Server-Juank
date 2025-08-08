@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-08 05:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-08-08 04:01:31 +0000"
@@ -775,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-08 05:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-08 03:56:12 +0000"
@@ -864,7 +876,10 @@
       "minecraft:frozen_ocean": "2025-08-08 03:42:12 +0000",
       "minecraft:beach": "2025-08-08 04:34:33 +0000",
       "minecraft:frozen_river": "2025-08-08 03:46:33 +0000",
+      "minecraft:forest": "2025-08-08 04:51:41 +0000",
+      "minecraft:taiga": "2025-08-08 04:54:55 +0000",
       "minecraft:river": "2025-08-08 04:33:28 +0000",
+      "minecraft:meadow": "2025-08-08 04:46:42 +0000",
       "minecraft:snowy_taiga": "2025-08-08 03:41:04 +0000",
       "minecraft:snowy_beach": "2025-08-08 03:42:10 +0000",
       "minecraft:plains": "2025-08-08 04:27:55 +0000"
@@ -967,6 +982,7 @@
       "chicken": "2025-08-08 03:54:31 +0000",
       "rotten_flesh": "2025-08-08 04:00:58 +0000",
       "enchanted_golden_apple": "2025-08-08 04:05:54 +0000",
+      "cooked_mutton": "2025-08-08 04:53:48 +0000",
       "cooked_salmon": "2025-08-08 04:14:14 +0000"
     },
     "done": false
@@ -1148,6 +1164,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-08 04:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-08 05:01:58 +0000"
     },
     "done": true
   },
