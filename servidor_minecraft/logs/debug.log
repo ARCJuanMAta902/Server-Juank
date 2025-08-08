@@ -973,3 +973,20 @@ java.io.IOException: Maximum number of bytes read: 8192
 [08Aug2025 05:02:28.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik moved too quickly! -2.7703165587336116,-0.619976325604469,-9.76408637737768
 [08Aug2025 05:05:11.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Aug2025 05:05:11.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 05:10:11.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 05:10:11.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Aug2025 05:12:56.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 burned to death
+[08Aug2025 05:13:00.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodSans2 lost connection: Disconnected
+[08Aug2025 05:13:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 left the game
+[08Aug2025 05:14:36.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked ImNotAether: Kicked by an operator
+[08Aug2025 05:14:36.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotAether lost connection: Kicked by an operator
+[08Aug2025 05:14:36.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether left the game
+[08Aug2025 05:14:45.035] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 05:14:45.036] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 05:14:45.036] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[08Aug2025 05:14:45.036] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[08Aug2025 05:14:45.036] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@2ba14d8e into net.minecraft.network.Connection@442bde6a
+[08Aug2025 05:14:45.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotAether[/172.27.29.55:64951] logged in with entity id 50041 at (-1448.1013644972263, 84.0, -1059.4523319358154)
+[08Aug2025 05:14:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game
+[08Aug2025 05:15:11.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Aug2025 05:15:11.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

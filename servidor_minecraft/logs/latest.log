@@ -191,3 +191,11 @@
 [08Aug2025 05:01:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Take Aim]
 [08Aug2025 05:02:28.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: john_sex moved too quickly! -4.062357707946603,0.017359307792929712,9.375140728825613
 [08Aug2025 05:02:28.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik moved too quickly! -2.7703165587336116,-0.619976325604469,-9.76408637737768
+[08Aug2025 05:12:56.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 burned to death
+[08Aug2025 05:13:00.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodSans2 lost connection: Disconnected
+[08Aug2025 05:13:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 left the game
+[08Aug2025 05:14:36.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked ImNotAether: Kicked by an operator
+[08Aug2025 05:14:36.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotAether lost connection: Kicked by an operator
+[08Aug2025 05:14:36.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether left the game
+[08Aug2025 05:14:45.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotAether[/172.27.29.55:64951] logged in with entity id 50041 at (-1448.1013644972263, 84.0, -1059.4523319358154)
+[08Aug2025 05:14:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game

@@ -12,6 +12,7 @@
       "minecraft:forest": "2025-08-08 04:46:38 +0000",
       "minecraft:taiga": "2025-08-08 04:47:58 +0000",
       "minecraft:river": "2025-08-08 04:31:35 +0000",
+      "minecraft:meadow": "2025-08-08 05:12:23 +0000",
       "minecraft:stony_shore": "2025-08-08 03:56:55 +0000",
       "minecraft:snowy_taiga": "2025-08-08 03:38:15 +0000",
       "minecraft:snowy_beach": "2025-08-08 03:43:37 +0000",
@@ -344,7 +345,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-08 04:01:15 +0000",
+      "mutton": "2025-08-08 05:11:48 +0000",
       "chicken": "2025-08-08 03:47:13 +0000",
+      "cooked_mutton": "2025-08-08 05:11:53 +0000",
       "cooked_cod": "2025-08-08 04:42:00 +0000",
       "cooked_beef": "2025-08-08 04:55:50 +0000",
       "beef": "2025-08-08 03:46:08 +0000",
@@ -1160,6 +1163,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-08 05:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-08 05:15:01 +0000"
     },
     "done": true
   },

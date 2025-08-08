@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-08-08 05:03:21 +0000",
       "minecraft:forest": "2025-08-08 04:46:11 +0000",
       "minecraft:taiga": "2025-08-08 04:46:15 +0000",
+      "minecraft:cherry_grove": "2025-08-08 05:05:17 +0000",
       "minecraft:river": "2025-08-08 04:37:13 +0000",
       "minecraft:snowy_taiga": "2025-08-08 04:36:08 +0000",
       "minecraft:dripstone_caves": "2025-08-08 04:52:38 +0000",
@@ -497,6 +498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-08 05:08:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-08 04:54:00 +0000"
@@ -740,6 +747,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-08 04:55:29 +0000",
+      "potato": "2025-08-08 05:05:52 +0000",
       "cooked_beef": "2025-08-08 04:56:54 +0000",
       "baked_potato": "2025-08-08 04:55:21 +0000"
     },
