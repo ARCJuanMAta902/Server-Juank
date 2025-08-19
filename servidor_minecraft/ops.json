@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "36f60e8e-ee6b-3b06-906b-6344cb935fc1",
+    "name": "GodSans2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "eae7a4ac-a0f7-305d-b7e9-4a115e55bdd4",
+    "name": "ImNotAether",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
