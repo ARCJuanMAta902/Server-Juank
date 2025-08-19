@@ -354,6 +354,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-08 03:50:57 +0000",
       "chicken": "2025-08-08 03:54:31 +0000",
+      "bread": "2025-08-19 03:37:31 +0000",
       "rotten_flesh": "2025-08-08 04:00:58 +0000",
       "enchanted_golden_apple": "2025-08-08 04:05:54 +0000",
       "cooked_mutton": "2025-08-08 04:53:48 +0000",
@@ -379,7 +380,8 @@
       "minecraft:pillager": "2025-08-08 04:31:01 +0000",
       "minecraft:skeleton": "2025-08-08 03:53:10 +0000",
       "minecraft:spider": "2025-08-08 05:12:31 +0000",
-      "minecraft:zombie": "2025-08-08 03:55:41 +0000"
+      "minecraft:zombie": "2025-08-08 03:55:41 +0000",
+      "minecraft:zombie_villager": "2025-08-19 03:13:54 +0000"
     },
     "done": false
   },

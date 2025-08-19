@@ -757,3 +757,62 @@ java.io.IOException: Maximum number of bytes read: 8192
 [19Aug2025 03:17:00.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex was blown up by Creeper
 [19Aug2025 03:17:02.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GodSans2 a server operator
 [19Aug2025 03:17:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotAether: Teleported john_sex to Geo06]
+[19Aug2025 03:17:40.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 03:17:40.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 03:18:34.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Geo06> k
+[19Aug2025 03:18:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether was doomed to fall by Skeleton
+[19Aug2025 03:18:53.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotAether lost connection: Disconnected
+[19Aug2025 03:18:53.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether left the game
+[19Aug2025 03:19:10.384] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:19:10.384] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:19:10.384] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:19:10.384] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Aug2025 03:19:10.385] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@6da5b5df into net.minecraft.network.Connection@1b94f863
+[19Aug2025 03:19:10.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotAether[/172.27.29.55:64535] logged in with entity id 8736 at (-1576.0522187947447, -3.0, -1616.746145057541)
+[19Aug2025 03:19:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game
+[19Aug2025 03:19:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotAether: Teleported ImNotAether to MrVerzik]
+[19Aug2025 03:19:21.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodSans2> XD?
+[19Aug2025 03:22:30.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotAether lost connection: Disconnected
+[19Aug2025 03:22:30.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether left the game
+[19Aug2025 03:22:40.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 03:22:40.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 03:22:44.558] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:22:44.558] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:22:44.558] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:22:44.558] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Aug2025 03:22:44.558] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@adc7a3c into net.minecraft.network.Connection@778d074e
+[19Aug2025 03:22:45.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotAether[/172.27.29.55:64563] logged in with entity id 11225 at (-1573.3200546719054, 3.1764244668979114, -1615.1512204331764)
+[19Aug2025 03:22:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game
+[19Aug2025 03:22:46.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether fell from a high place
+[19Aug2025 03:22:58.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotAether: Teleported ImNotAether to MrVerzik]
+[19Aug2025 03:26:57.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Minecraft: Trial(s) Edition]
+[19Aug2025 03:27:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotAether: Teleported john_sex to ImNotAether]
+[19Aug2025 03:27:17.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Minecraft: Trial(s) Edition]
+[19Aug2025 03:27:18.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Minecraft: Trial(s) Edition]
+[19Aug2025 03:27:40.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 03:27:40.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 03:30:15.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Geo06> mete atroxel
+[19Aug2025 03:30:25.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodSans2> estoy mentiendo a Tori
+[19Aug2025 03:30:31.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Geo06> a
+[19Aug2025 03:32:40.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Wax Off]
+[19Aug2025 03:32:40.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 03:32:40.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 03:33:17.963] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:33:17.965] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:33:17.965] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[19Aug2025 03:33:17.965] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[19Aug2025 03:33:17.965] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@64639b4c into net.minecraft.network.Connection@114639f0
+[19Aug2025 03:33:20.284] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tori28[/172.27.241.71:56560] logged in with entity id 15584 at (40.5, 75.0, -149.5)
+[19Aug2025 03:33:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tori28 joined the game
+[19Aug2025 03:33:42.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tori28 was slain by Zombie
+[19Aug2025 03:33:51.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 was shot by Skeleton
+[19Aug2025 03:34:01.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GodSans2: Teleported Tori28 to GodSans2]
+[19Aug2025 03:34:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Tori28 to GodSans2
+[19Aug2025 03:35:11.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 was shot by Skeleton
+[19Aug2025 03:35:20.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodSans2> Me aparece que esta Tori, pero no lo tepea
+[19Aug2025 03:35:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Not Today, Thank You]
+[19Aug2025 03:36:32.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GodSans2: Teleported Geo06 to GodSans2]
+[19Aug2025 03:37:00.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=21, y=76, z=-172}
+[19Aug2025 03:37:02.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=77, z=-168}
+[19Aug2025 03:37:40.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 03:37:40.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
