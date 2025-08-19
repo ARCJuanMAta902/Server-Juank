@@ -290,6 +290,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-08 04:08:29 +0000",
+      "minecraft:silverfish": "2025-08-19 03:55:06 +0000",
       "minecraft:spider": "2025-08-08 03:42:28 +0000",
       "minecraft:zombie": "2025-08-08 04:01:46 +0000",
       "minecraft:creeper": "2025-08-08 04:12:27 +0000",
@@ -1592,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-19 03:56:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/waxed_copper_bulb": {
     "criteria": {
       "has_waxed_copper_block": "2025-08-19 03:27:17 +0000"
@@ -1769,6 +1776,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-08-19 03:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-19 03:56:44 +0000"
     },
     "done": true
   },
