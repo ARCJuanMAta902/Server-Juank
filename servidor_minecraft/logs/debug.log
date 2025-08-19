@@ -816,3 +816,60 @@ java.io.IOException: Maximum number of bytes read: 8192
 [19Aug2025 03:37:02.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=77, z=-168}
 [19Aug2025 03:37:40.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Aug2025 03:37:40.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 03:38:27.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GodSans2: Teleported Tori28 to GodSans2]
+[19Aug2025 03:38:38.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tori28 has made the advancement [Suit Up]
+[19Aug2025 03:38:40.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tori28 has made the advancement [Acquire Hardware]
+[19Aug2025 03:39:46.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GodSans2: Teleported Tori28 to GodSans2]
+[19Aug2025 03:39:48.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Under Lock and Key]
+[19Aug2025 03:40:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Under Lock and Key]
+[19Aug2025 03:42:40.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 03:42:40.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Aug2025 03:42:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 was slain by Tori28
+[19Aug2025 03:42:52.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tori28> gg ez
+[19Aug2025 03:43:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GodSans2: Teleported Geo06 to GodSans2]
+[19Aug2025 03:45:31.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Not Today, Thank You]
+[19Aug2025 03:45:36.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Take Aim]
+[19Aug2025 03:45:54.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex hit the ground too hard
+[19Aug2025 03:46:07.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=47, y=83, z=-168}
+[19Aug2025 03:46:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotAether: Teleported john_sex to ImNotAether]
+[19Aug2025 03:46:57.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik was shot by Bogged
+[19Aug2025 03:47:07.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GodSans2: Teleported GodSans2 to MrVerzik]
+[19Aug2025 03:47:07.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=35, y=75, z=-151}
+[19Aug2025 03:47:07.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=74, z=-151}
+[19Aug2025 03:47:08.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=35, y=75, z=-151}
+[19Aug2025 03:47:08.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=74, z=-151}
+[19Aug2025 03:47:08.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=36, y=74, z=-151}
+[19Aug2025 03:47:13.029] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft, tlskincape]
+[19Aug2025 03:47:13.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login]
+[19Aug2025 03:47:13.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[19Aug2025 03:47:13.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[19Aug2025 03:47:13.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[19Aug2025 03:47:13.117] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[19Aug2025 03:47:13.211] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[19Aug2025 03:47:13.301] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[19Aug2025 03:47:13.384] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[19Aug2025 03:47:13.486] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[19Aug2025 03:47:13.570] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[19Aug2025 03:47:13.655] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[19Aug2025 03:47:13.743] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[19Aug2025 03:47:13.829] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[19Aug2025 03:47:13.911] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[19Aug2025 03:47:13.992] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[19Aug2025 03:47:14.076] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[19Aug2025 03:47:14.158] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[19Aug2025 03:47:14.250] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[19Aug2025 03:47:14.362] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[19Aug2025 03:47:14.444] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[19Aug2025 03:47:14.526] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[19Aug2025 03:47:14.609] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[19Aug2025 03:47:14.695] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[19Aug2025 03:47:14.776] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[19Aug2025 03:47:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotAether: Teleported MrVerzik to ImNotAether]
+[19Aug2025 03:47:15.558] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[19Aug2025 03:47:16.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Troxel[/172.27.93.181:51706] logged in with entity id 22237 at (38.5, 84.0, -161.5)
+[19Aug2025 03:47:16.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troxel joined the game
+[19Aug2025 03:47:29.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GodSans2: Teleported GodSans2 to MrVerzik]
+[19Aug2025 03:47:30.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Minecraft: Trial(s) Edition]
+[19Aug2025 03:47:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodSans2> alv
+[19Aug2025 03:47:40.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Aug2025 03:47:40.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

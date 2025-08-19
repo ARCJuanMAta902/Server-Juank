@@ -700,6 +700,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-08 04:55:29 +0000",
+      "cooked_chicken": "2025-08-19 03:42:11 +0000",
+      "cooked_mutton": "2025-08-19 03:38:42 +0000",
       "potato": "2025-08-08 05:05:52 +0000",
       "cooked_beef": "2025-08-08 04:56:54 +0000",
       "baked_potato": "2025-08-08 04:55:21 +0000",
@@ -1335,6 +1337,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-19 03:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-08-19 03:40:05 +0000"
     },
     "done": true
   },
