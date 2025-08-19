@@ -1,204 +1,55 @@
-[08Aug2025 03:24:19.667] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
-[08Aug2025 03:24:19.671] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
-[08Aug2025 03:24:19.672] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[08Aug2025 03:24:19.795] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/Server-Juank/servidor_minecraft/config/fml.toml is not correct. Correcting
-[08Aug2025 03:24:19.798] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
-[08Aug2025 03:24:19.799] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
-[08Aug2025 03:24:19.801] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
-[08Aug2025 03:24:19.803] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
-[08Aug2025 03:24:19.822] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
-[08Aug2025 03:24:19.976] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-Juank/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
-[08Aug2025 03:24:20.434] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[08Aug2025 03:24:22.367] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
-[08Aug2025 03:24:32.077] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 54.1.0, for MC 1.21.4 with MCP 20241203.143248
-[08Aug2025 03:24:32.079] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v54.1.0 Initialized
-[08Aug2025 03:24:32.124] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[08Aug2025 03:24:32.538] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Server-Juank/servidor_minecraft/config/forge-common.toml is not correct. Correcting
-[08Aug2025 03:24:32.540] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[08Aug2025 03:24:32.542] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.logLegacyTagWarnings was corrected from null to its default, OFF. 
-[08Aug2025 03:24:33.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Aug2025 03:24:34.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 54.1.0 Target: null
-[08Aug2025 03:24:34.969] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08Aug2025 03:24:36.687] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
-[08Aug2025 03:24:38.485] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1370 recipes
-[08Aug2025 03:24:38.520] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1481 advancements
-[08Aug2025 03:24:38.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
-[08Aug2025 03:24:38.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Aug2025 03:24:38.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Aug2025 03:24:38.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Aug2025 03:24:38.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Aug2025 03:24:38.987] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Aug2025 03:24:39.070] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Aug2025 03:24:39.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Aug2025 03:24:39.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Aug2025 03:24:39.072] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Aug2025 03:24:39.096] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[08Aug2025 03:24:39.099] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
-[08Aug2025 03:24:39.100] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[08Aug2025 03:24:39.101] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[08Aug2025 03:24:39.101] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[08Aug2025 03:24:39.102] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[08Aug2025 03:24:39.103] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
-[08Aug2025 03:24:39.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Aug2025 03:24:54.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Aug2025 03:24:54.660] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:55.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:55.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:56.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:56.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:57.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:57.541] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:58.050] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:58.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:59.055] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:24:59.537] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:00.035] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:00.527] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:01.099] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:01.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:02.039] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:02.528] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:03.041] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:03.528] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[08Aug2025 03:25:04.207] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
-[08Aug2025 03:25:04.268] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9741 ms
-[08Aug2025 03:25:04.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.178s)! For help, type "help"
-[08Aug2025 03:25:04.294] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Aug2025 03:25:54.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GodSans2[/172.27.149.71:62923] logged in with entity id 43 at (32.5, 76.0, -158.5)
-[08Aug2025 03:25:54.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 joined the game
-[08Aug2025 03:28:33.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotAether[/172.27.29.55:59109] logged in with entity id 891 at (39.5, 84.0, -160.5)
-[08Aug2025 03:28:33.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game
-[08Aug2025 03:34:43.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotAether moved too quickly! 4.402090532713494,-1.0013359791121417,9.293439172070407
-[08Aug2025 03:34:43.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
-[08Aug2025 03:38:14.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: john_sex[/172.27.110.222:56709] logged in with entity id 5135 at (33.5, 76.0, -161.5)
-[08Aug2025 03:38:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex joined the game
-[08Aug2025 03:38:41.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodSans2 lost connection: Disconnected
-[08Aug2025 03:38:41.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 left the game
-[08Aug2025 03:39:38.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.25762405464536187
-[08Aug2025 03:39:39.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.7323586204733488
-[08Aug2025 03:39:39.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.2654188778371207
-[08Aug2025 03:39:39.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.2713680607727582
-[08Aug2025 03:39:39.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.2746420828244567
-[08Aug2025 03:39:53.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.3308547788833138
-[08Aug2025 03:39:54.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.5990102676824236
-[08Aug2025 03:40:17.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.3500852603328184
-[08Aug2025 03:40:17.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 1.055125728241606
-[08Aug2025 03:40:17.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 1.0423286404335812
-[08Aug2025 03:40:17.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.5440505373185189
-[08Aug2025 03:40:31.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GodSans2[/172.27.149.71:63740] logged in with entity id 5954 at (76.96833294122648, 72.0, -157.3898604150953)
-[08Aug2025 03:40:31.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 joined the game
-[08Aug2025 03:40:37.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 0.39714934191962925
-[08Aug2025 03:40:47.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 was slain by Zombie
-[08Aug2025 03:41:03.436] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Geo06[/172.27.51.11:53809] logged in with entity id 6152 at (37.5, 77.0, -167.5)
-[08Aug2025 03:41:03.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 joined the game
-[08Aug2025 03:42:28.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Monster Hunter]
-[08Aug2025 03:42:38.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of ImNotAether) moved wrongly! 1.2472525868003856
-[08Aug2025 03:43:33.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spruce Boat (vehicle of john_sex) moved wrongly! 0.25345932351251577
-[08Aug2025 03:44:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Monster Hunter]
-[08Aug2025 03:47:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether was slain by john_sex
-[08Aug2025 03:48:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 was slain by john_sex
-[08Aug2025 03:48:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex was slain by ImNotAether
-[08Aug2025 03:49:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Stone Age]
-[08Aug2025 03:49:26.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 was slain by ImNotAether
-[08Aug2025 03:49:34.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Stone Age]
-[08Aug2025 03:50:03.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Getting an Upgrade]
-[08Aug2025 03:52:04.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Stone Age]
-[08Aug2025 03:52:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Stone Age]
-[08Aug2025 03:53:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Monster Hunter]
-[08Aug2025 03:53:12.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Getting an Upgrade]
-[08Aug2025 03:53:18.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Getting an Upgrade]
-[08Aug2025 03:53:44.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Getting an Upgrade]
-[08Aug2025 03:54:16.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Monster Hunter]
-[08Aug2025 03:56:12.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Acquire Hardware]
-[08Aug2025 03:56:30.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Acquire Hardware]
-[08Aug2025 03:56:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Isn't It Iron Pick]
-[08Aug2025 03:57:46.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: john_sex lost connection: Timed out
-[08Aug2025 03:57:46.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex left the game
-[08Aug2025 03:57:46.303] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Aug2025 03:58:03.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: john_sex[/172.27.110.222:57836] logged in with entity id 12055 at (-28.60908818793247, 72.0, -220.5369539990273)
-[08Aug2025 03:58:03.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex joined the game
-[08Aug2025 03:58:31.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex was shot by Skeleton
-[08Aug2025 03:59:38.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Isn't It Iron Pick]
-[08Aug2025 04:01:18.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether fell from a high place
-[08Aug2025 04:04:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 was shot by Skeleton
-[08Aug2025 04:08:34.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Acquire Hardware]
-[08Aug2025 04:08:47.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Isn't It Iron Pick]
-[08Aug2025 04:09:47.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Diamonds!]
-[08Aug2025 04:11:47.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported GodSans2 to Geo06
-[08Aug2025 04:11:53.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether was shot by Skeleton
-[08Aug2025 04:12:00.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Not Today, Thank You]
-[08Aug2025 04:13:31.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Suit Up]
-[08Aug2025 04:13:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Isn't It Iron Pick]
-[08Aug2025 04:15:24.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Fishy Business]
-[08Aug2025 04:15:31.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Fishy Business]
-[08Aug2025 04:19:56.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Sweet Dreams]
-[08Aug2025 04:25:17.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Diamonds!]
-[08Aug2025 04:25:26.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Suit Up]
-[08Aug2025 04:25:41.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Suit Up]
-[08Aug2025 04:27:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Geo06 to GodSans2
-[08Aug2025 04:28:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to GodSans2
-[08Aug2025 04:28:54.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ImNotAether to GodSans2
-[08Aug2025 04:29:51.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Not Today, Thank You]
-[08Aug2025 04:32:36.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: john_sex lost connection: Timed out
-[08Aug2025 04:32:36.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex left the game
-[08Aug2025 04:32:51.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: john_sex[/172.27.110.222:61421] logged in with entity id 26346 at (-900.0616947308421, 67.0, -808.0225638878327)
-[08Aug2025 04:32:51.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex joined the game
-[08Aug2025 04:33:09.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodSans2> Susurro
-[08Aug2025 04:33:22.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> machete
-[08Aug2025 04:33:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodSans2> hay men
-[08Aug2025 04:36:07.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrVerzik[/172.27.101.118:64176] logged in with entity id 27544 at (26.5, 74.0, -156.5)
-[08Aug2025 04:36:07.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik joined the game
-[08Aug2025 04:36:15.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> buuuu
-[08Aug2025 04:36:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
-[08Aug2025 04:36:57.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Sweet Dreams]
-[08Aug2025 04:37:38.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Sweet Dreams]
-[08Aug2025 04:37:45.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> a mimi
-[08Aug2025 04:37:47.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> erga
-[08Aug2025 04:38:18.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Sweet Dreams]
-[08Aug2025 04:38:24.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether has made the advancement [Sweet Dreams]
-[08Aug2025 04:40:03.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GodSans2> w
-[08Aug2025 04:40:07.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> adafff
-[08Aug2025 04:40:17.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodSans2 moved too quickly! 10.012984290752229,0.0,-0.7994650240938199
-[08Aug2025 04:40:44.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1166, y=64, z=-886} BlockPos{x=-1167, y=62, z=-886}
-[08Aug2025 04:40:44.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1166, y=64, z=-886} BlockPos{x=-1167, y=62, z=-886}
-[08Aug2025 04:42:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Stone Age]
-[08Aug2025 04:42:45.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodSans2 moved too quickly! -9.911505807372578,1.4524514780759787,1.227245772016886
-[08Aug2025 04:42:45.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
-[08Aug2025 04:42:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Getting an Upgrade]
-[08Aug2025 04:44:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex was slain by ImNotAether
-[08Aug2025 04:45:14.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to ImNotAether
-[08Aug2025 04:46:10.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
-[08Aug2025 04:46:15.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik was doomed to fall by GodSans2
-[08Aug2025 04:46:26.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
-[08Aug2025 04:48:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
-[08Aug2025 04:48:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... john_sex  GodSans2<--[HERE]
-[08Aug2025 04:48:24.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to GodSans2
-[08Aug2025 04:49:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported GodSans2 to ImNotAether
-[08Aug2025 04:50:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <john_sex> hola
-[08Aug2025 04:50:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked MrVerzik: Kicked by an operator
-[08Aug2025 04:50:27.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik lost connection: Kicked by an operator
-[08Aug2025 04:50:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik left the game
-[08Aug2025 04:51:15.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrVerzik[/172.27.101.118:65053] logged in with entity id 35359 at (-1531.763042301626, 87.0, -473.78980841778775)
-[08Aug2025 04:51:15.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik joined the game
-[08Aug2025 04:51:18.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported john_sex to GodSans2
-[08Aug2025 04:53:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Monster Hunter]
-[08Aug2025 04:54:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Acquire Hardware]
-[08Aug2025 04:55:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MrVerzik to GodSans2
-[08Aug2025 04:55:57.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Isn't It Iron Pick]
-[08Aug2025 04:56:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Suit Up]
-[08Aug2025 04:58:11.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32621, l='ServerLevel[world]', x=-1474.93, y=64.00, z=-965.84] died, message: 'Villager was slain by Zombie'
-[08Aug2025 05:01:26.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Take Aim]
-[08Aug2025 05:01:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Geo06 has made the advancement [Take Aim]
-[08Aug2025 05:02:28.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: john_sex moved too quickly! -4.062357707946603,0.017359307792929712,9.375140728825613
-[08Aug2025 05:02:28.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrVerzik moved too quickly! -2.7703165587336116,-0.619976325604469,-9.76408637737768
-[08Aug2025 05:12:56.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 burned to death
-[08Aug2025 05:13:00.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GodSans2 lost connection: Disconnected
-[08Aug2025 05:13:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 left the game
-[08Aug2025 05:14:36.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked ImNotAether: Kicked by an operator
-[08Aug2025 05:14:36.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotAether lost connection: Kicked by an operator
-[08Aug2025 05:14:36.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether left the game
-[08Aug2025 05:14:45.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotAether[/172.27.29.55:64951] logged in with entity id 50041 at (-1448.1013644972263, 84.0, -1059.4523319358154)
-[08Aug2025 05:14:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game
-[08Aug2025 05:20:32.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex has made the advancement [Acquire Hardware]
-[08Aug2025 05:31:12.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Diamonds!]
-[08Aug2025 05:34:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrVerzik has made the advancement [Cover Me with Diamonds]
+[19Aug2025 02:57:13.361] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[19Aug2025 02:57:13.367] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04
+[19Aug2025 02:57:13.369] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[19Aug2025 02:57:13.512] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[19Aug2025 02:57:13.711] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/Server-Juank/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[19Aug2025 02:57:14.040] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[19Aug2025 02:57:15.686] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[19Aug2025 02:57:25.119] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 54.1.0, for MC 1.21.4 with MCP 20241203.143248
+[19Aug2025 02:57:25.119] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v54.1.0 Initialized
+[19Aug2025 02:57:25.167] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[19Aug2025 02:57:26.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Aug2025 02:57:27.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 54.1.0 Target: null
+[19Aug2025 02:57:28.029] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19Aug2025 02:57:32.088] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1370 recipes
+[19Aug2025 02:57:32.138] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1481 advancements
+[19Aug2025 02:57:32.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.4
+[19Aug2025 02:57:32.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19Aug2025 02:57:32.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19Aug2025 02:57:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19Aug2025 02:57:32.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19Aug2025 02:57:32.871] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19Aug2025 02:57:32.930] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19Aug2025 02:57:32.931] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19Aug2025 02:57:32.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19Aug2025 02:57:32.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19Aug2025 02:57:33.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19Aug2025 02:57:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Aug2025 02:57:40.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.262] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.262] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.263] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.263] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.264] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.264] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.265] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.267] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19Aug2025 02:57:40.792] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7099 ms
+[19Aug2025 02:57:40.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.842s)! For help, type "help"
+[19Aug2025 02:57:40.812] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19Aug2025 02:58:30.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GodSans2[/172.27.149.71:54130] logged in with entity id 9 at (-1521.5, 71.0, -909.5)
+[19Aug2025 02:58:30.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 joined the game
+[19Aug2025 03:03:41.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 was blown up by Creeper
+[19Aug2025 03:03:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set GodSans2's game mode to Creative Mode
+[19Aug2025 03:04:08.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GodSans2 has made the advancement [Suit Up]
+[19Aug2025 03:05:37.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotAether[/172.27.29.55:64449] logged in with entity id 1873 at (-1513.3107382914907, 72.0, -901.45279884602)
+[19Aug2025 03:05:37.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotAether joined the game
+[19Aug2025 03:05:45.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: john_sex[/172.27.110.222:62280] logged in with entity id 1913 at (-1514.6450201220189, 72.58230961125521, -898.7580136540015)
+[19Aug2025 03:05:45.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: john_sex joined the game
+[19Aug2025 03:05:58.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set GodSans2's game mode to Survival Mode
